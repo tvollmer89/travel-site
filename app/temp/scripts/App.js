@@ -81,20 +81,20 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./app/assets/scripts/app.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./app/assets/scripts/App.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./app/assets/scripts/app.js":
+/***/ "./app/assets/scripts/App.js":
 /*!***********************************!*\
-  !*** ./app/assets/scripts/app.js ***!
+  !*** ./app/assets/scripts/App.js ***!
   \***********************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _modules_MobileMenu__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/MobileMenu */ \"./app/assets/scripts/modules/MobileMenu.js\");\n/* harmony import */ var _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/RevealOnScroll */ \"./app/assets/scripts/modules/RevealOnScroll.js\");\n/* harmony import */ var _modules_StickyHeader__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/StickyHeader */ \"./app/assets/scripts/modules/StickyHeader.js\");\n/* harmony import */ var _modules_Modal__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/Modal */ \"./app/assets/scripts/modules/Modal.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_4__);\n\n\n\n\n\nvar mobileMenu = new _modules_MobileMenu__WEBPACK_IMPORTED_MODULE_0__[\"default\"]();\nnew _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__[\"default\"](jquery__WEBPACK_IMPORTED_MODULE_4___default()('.feature-item'), \"85%\");\nnew _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__[\"default\"](jquery__WEBPACK_IMPORTED_MODULE_4___default()('.testimonial'), \"60%\");\nvar stickyHeader = new _modules_StickyHeader__WEBPACK_IMPORTED_MODULE_2__[\"default\"]();\nvar modal = new _modules_Modal__WEBPACK_IMPORTED_MODULE_3__[\"default\"]();\n\n//# sourceURL=webpack:///./app/assets/scripts/app.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _modules_MobileMenu__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modules/MobileMenu */ \"./app/assets/scripts/modules/MobileMenu.js\");\n/* harmony import */ var _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/RevealOnScroll */ \"./app/assets/scripts/modules/RevealOnScroll.js\");\n/* harmony import */ var _modules_StickyHeader__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/StickyHeader */ \"./app/assets/scripts/modules/StickyHeader.js\");\n/* harmony import */ var _modules_Modal__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/Modal */ \"./app/assets/scripts/modules/Modal.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! jquery */ \"./node_modules/jquery/dist/jquery.js\");\n/* harmony import */ var jquery__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(jquery__WEBPACK_IMPORTED_MODULE_4__);\n\n\n\n\n\nvar mobileMenu = new _modules_MobileMenu__WEBPACK_IMPORTED_MODULE_0__[\"default\"]();\nnew _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__[\"default\"](jquery__WEBPACK_IMPORTED_MODULE_4___default()('.feature-item'), \"85%\");\nnew _modules_RevealOnScroll__WEBPACK_IMPORTED_MODULE_1__[\"default\"](jquery__WEBPACK_IMPORTED_MODULE_4___default()('.testimonial'), \"60%\");\nvar stickyHeader = new _modules_StickyHeader__WEBPACK_IMPORTED_MODULE_2__[\"default\"]();\nvar modal = new _modules_Modal__WEBPACK_IMPORTED_MODULE_3__[\"default\"]();\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
 
 /***/ }),
 
